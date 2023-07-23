@@ -1,0 +1,139 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MyYoutubeClient/1.0.0": {
+        "dependencies": {
+          "YoutubeExplode": "6.3.0",
+          "YoutubeExplode.Converter": "6.3.0"
+        },
+        "runtime": {
+          "MyYoutubeClient.dll": {}
+        }
+      },
+      "AngleSharp/1.0.4": {
+        "dependencies": {
+          "System.Text.Encoding.CodePages": "7.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AngleSharp.dll": {
+            "assemblyVersion": "1.0.4.0",
+            "fileVersion": "1.0.4.0"
+          }
+        }
+      },
+      "CliWrap/3.6.4": {
+        "runtime": {
+          "lib/netcoreapp3.0/CliWrap.dll": {
+            "assemblyVersion": "3.6.4.0",
+            "fileVersion": "3.6.4.0"
+          }
+        }
+      },
+      "System.Memory/4.5.5": {},
+      "System.Runtime.CompilerServices.Unsafe/6.0.0": {
+        "runtime": {
+          "lib/netcoreapp3.1/System.Runtime.CompilerServices.Unsafe.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.52210"
+          }
+        }
+      },
+      "System.Text.Encoding.CodePages/7.0.0": {
+        "dependencies": {
+          "System.Memory": "4.5.5",
+          "System.Runtime.CompilerServices.Unsafe": "6.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Text.Encoding.CodePages.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.22.51805"
+          }
+        }
+      },
+      "YoutubeExplode/6.3.0": {
+        "dependencies": {
+          "AngleSharp": "1.0.4"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/YoutubeExplode.dll": {
+            "assemblyVersion": "6.3.0.0",
+            "fileVersion": "6.3.0.0"
+          }
+        }
+      },
+      "YoutubeExplode.Converter/6.3.0": {
+        "dependencies": {
+          "CliWrap": "3.6.4",
+          "YoutubeExplode": "6.3.0"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/YoutubeExplode.Converter.dll": {
+            "assemblyVersion": "6.3.0.0",
+            "fileVersion": "6.3.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyYoutubeClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AngleSharp/1.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-G8R4C2MEDFQvjUbYz1QIcGfibjsTJnzP0aWy8iQgWWk7eKacYydCNGD3JMhVL0Q5pZQ9RYlqpKNESEU5NpqsRw==",
+      "path": "anglesharp/1.0.4",
+      "hashPath": "anglesharp.1.0.4.nupkg.sha512"
+    },
+    "CliWrap/3.6.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KVGVZlR0GWgN3Xr88oZMSzYu38TXIogwLz588e6wku3mIfg6lPchxpYWtZSZfurpTY63ANF61xWp8EZF3jkN4g==",
+      "path": "cliwrap/3.6.4",
+      "hashPath": "cliwrap.3.6.4.nupkg.sha512"
+    },
+    "System.Memory/4.5.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XIWiDvKPXaTveaB7HVganDlOCRoj03l+jrwNvcge/t8vhGYKvqV+dMv6G4SAX2NoNmN0wZfVPTAlFwZcZvVOUw==",
+      "path": "system.memory/4.5.5",
+      "hashPath": "system.memory.4.5.5.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/6.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/iUeP3tq1S0XdNNoMz5C9twLSrM/TH+qElHkXWaPvuNOt+99G75NrV0OS2EqHx5wMN7popYjpc8oTjC1y16DLg==",
+      "path": "system.runtime.compilerservices.unsafe/6.0.0",
+      "hashPath": "system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    },
+    "System.Text.Encoding.CodePages/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LSyCblMpvOe0N3E+8e0skHcrIhgV2huaNcjUUEa8hRtgEAm36aGkRoC8Jxlb6Ra6GSfF29ftduPNywin8XolzQ==",
+      "path": "system.text.encoding.codepages/7.0.0",
+      "hashPath": "system.text.encoding.codepages.7.0.0.nupkg.sha512"
+    },
+    "YoutubeExplode/6.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-CMdp1g2b0BNFC3KIByRdU7qRw+m4A0upOONwx+u26353DqOXKXQeXmGB8KbXCX7fkiKW9KoQeDK7sSI+7i52Dw==",
+      "path": "youtubeexplode/6.3.0",
+      "hashPath": "youtubeexplode.6.3.0.nupkg.sha512"
+    },
+    "YoutubeExplode.Converter/6.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-R4DZfW51Qh0vBTOiuGzBdWifU1DoSXNzo+HlFkCCeXik4MySI5RljSeGERvFhX5FvgvRV/NdkpUq4UX9HvuTyQ==",
+      "path": "youtubeexplode.converter/6.3.0",
+      "hashPath": "youtubeexplode.converter.6.3.0.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\YoutubeClient\YoutubeClient\bin\Debug\netcoreapp3.0\YoutubeClient.exe
+C:\YoutubeClient\YoutubeClient\bin\Debug\netcoreapp3.0\YoutubeClient.deps.json
+C:\YoutubeClient\YoutubeClient\bin\Debug\netcoreapp3.0\YoutubeClient.runtimeconfig.json
+C:\YoutubeClient\YoutubeClient\bin\Debug\netcoreapp3.0\YoutubeClient.runtimeconfig.dev.json
+C:\YoutubeClient\YoutubeClient\bin\Debug\netcoreapp3.0\YoutubeClient.dll
+C:\YoutubeClient\YoutubeClient\bin\Debug\netcoreapp3.0\YoutubeClient.pdb
+C:\YoutubeClient\YoutubeClient\obj\Debug\netcoreapp3.0\YoutubeClient.csproj.AssemblyReference.cache
+C:\YoutubeClient\YoutubeClient\obj\Debug\netcoreapp3.0\YoutubeClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\YoutubeClient\YoutubeClient\obj\Debug\netcoreapp3.0\YoutubeClient.AssemblyInfoInputs.cache
+C:\YoutubeClient\YoutubeClient\obj\Debug\netcoreapp3.0\YoutubeClient.AssemblyInfo.cs
+C:\YoutubeClient\YoutubeClient\obj\Debug\netcoreapp3.0\YoutubeClient.csproj.CoreCompileInputs.cache
+C:\YoutubeClient\YoutubeClient\obj\Debug\netcoreapp3.0\YoutubeClient.dll
+C:\YoutubeClient\YoutubeClient\obj\Debug\netcoreapp3.0\YoutubeClient.pdb
+C:\YoutubeClient\YoutubeClient\obj\Debug\netcoreapp3.0\YoutubeClient.genruntimeconfig.cache
